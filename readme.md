@@ -53,6 +53,8 @@ After the tests run, you can view the results.
    - Navigate to **cypress/reports** in your file explorer.
    - Look for a file named **mochawesome.html** (or similarly named).
    - Double-click to open the file in your browser.
+   If this does not open the browser,right click on the mochawesome.html file under reports folder and click on Reveal in File Explorer section,
+   then in opening folder right click on mochawesome file and open this file with Google Chrome
  
  - Screenshots of Failed Tests:
    - If any tests fail, screenshots are captured automatically.
