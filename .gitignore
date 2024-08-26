@@ -1,0 +1,4 @@
+.vs/
+cypress/screenshots/
+node_modules
+cypress/reports/
